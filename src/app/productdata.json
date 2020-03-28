@@ -1,0 +1,246 @@
+{
+  "men": [
+    {
+      "id": "0",
+"category":"men",
+      "type": "tshirt",
+      "brand": "reebok",
+      "img": "../assets/mens/tshirt1.jpg",
+      "Price": "100",
+      "description": "NICE T-Shirt of REEBOK"
+    },
+    {
+      "id": "1",
+       "category":"men",
+      "type": "shirt",
+      "brand": "reebok",
+      "img": "../assets/mens/shirt1.jpg",
+      "Price": "200",
+      "description": "NICE Shirt of REEBOK"
+    },
+    {
+      "id": "2",
+      "type": "pant",
+     "category":"men",
+      "brand": "reebok",
+      "img": "../assets/mens/pant1.jpg",
+      "Price": "500",
+      "description": "NICE pant of REEBOK"
+    },{
+
+    "id": "3",
+    "type": "tshirt",
+     "category":"men",
+    "brand": "levis",
+    "img": "../assets/mens/tshirt2.jpg",
+    "Price": "100",
+    "description": "NICE T-Shirt of LEVIS"
+  },
+  {
+    "id": "4",
+    "type": "shirt",
+"category":"men",
+    "brand": "levis",
+    "img": "../assets/mens/shirt2.jpg",
+    "Price": "200",
+    "description": "NICE Shirt of LEVIS"
+  },
+  {
+    "id": "5",
+    "type": "pant",
+"category":"men",
+    "brand": "levis",
+    "img": "../assets/mens/pant2.jpg",
+    "Price": "500",
+    "description": "NICE pant of LEVIS"
+  },{
+  "id": "6",
+  "type": "tshirt",
+"category":"men",
+  "brand": "puma",
+  "img": "../assets/mens/tshirt3.jpg",
+  "Price": "100",
+  "description": "NICE T-Shirt of PUMA"
+},
+{
+  "id": "7",
+  "type": "shirt",
+"category":"men",
+  "brand": "puma",
+  "img": "../assets/mens/shirt3.jpg",
+  "Price": "200",
+  "description": "NICE Shirt of PUMA"
+},
+{
+  "id": "8",
+  "type": "pant",
+"category":"men",
+  "brand": "puma",
+  "img": "../assets/mens/pant3.jpg",
+  "Price": "500",
+  "description": "NICE pant of PUMA"
+}
+],
+"Women": [
+{
+  "id": "0",
+  "type": "tshirt",
+"category":"Women",
+  "brand": "reebok",
+  "img": "../assets/women/tshirt1.jpg",
+  "Price": "100",
+  "description": "NICE T-Shirt of REEBOK"
+},
+{
+  "id": "1",
+  "type": "shirt",
+  "brand": "reebok",
+"category":"Women",
+  "img": "../assets/women/shirt1.jpg",
+  "Price": "200",
+  "description": "NICE Shirt of REEBOK"
+},
+{
+  "id": "2",
+  "type": "pant",
+  "brand": "reebok",
+"category":"Women",
+  "img": "../assets/women/pant1.jpg",
+  "Price": "500",
+  "description": "NICE pant of REEBOK"
+},{
+"id": "3",
+"type": "tshirt",
+"brand": "levis",
+"category":"Women",
+"img": "../assets/women/tshirt2.jpg",
+"Price": "100",
+"description": "NICE T-Shirt of LEVIS"
+},
+{
+"id": "4",
+"type": "shirt",
+"brand": "levis",
+"category":"Women",
+"img": "../assets/women/shirt2.jpg",
+"Price": "200",
+"description": "NICE Shirt of LEVIS"
+},
+{
+"id": "5",
+"type": "pant",
+"category":"Women",
+"brand": "levis",
+"img": "../assets/women/pant2.jpg",
+"Price": "500",
+"description": "NICE pant of LEVIS"
+},{
+"id": "6",
+"type": "tshirt",
+"category":"Women",
+"brand": "puma",
+"img": "../assets/women/tshirt3.jpg",
+"Price": "100",
+"description": "NICE T-Shirt of PUMA"
+},
+{
+"id": "7",
+"type": "shirt",
+"category":"Women",
+"brand": "puma",
+"img": "../assets/women/shirt3.jpg",
+"Price": "200",
+"description": "NICE Shirt of PUMA"
+},
+{
+"id": "8",
+"type": "pant",
+"category":"Women",
+"brand": "puma",
+"img": "../assets/women/pant3.jpg",
+"Price": "500",
+"description": "NICE pant of PUMA"
+}
+],
+"Kids": [
+{
+"id": "0",
+"type": "tshirt",
+"category":"Kids",
+"brand": "reebok",
+"img": "../assets/kids/tshirt1.jpg",
+"Price": "100",
+"description": "NICE T-Shirt of REEBOK"
+},
+{
+"id": "1",
+"type": "shirt",
+"category":"Kids",
+"brand": "reebok",
+"img": "../assets/kids/shirt1.jpg",
+"Price": "200",
+"description": "NICE Shirt of REEBOK"
+},
+{
+"id": "2",
+"type": "pant",
+"category":"Kids",
+"brand": "reebok",
+"img": "../assets/kids/pant1.jpg",
+"Price": "500",
+"description": "NICE pant of REEBOK"
+},{
+"id": "3",
+"type": "tshirt",
+"category":"Kids",
+"brand": "levis",
+"img": "../assets/kids/tshirt2.jpg",
+"Price": "100",
+"description": "NICE T-Shirt of LEVIS"
+},
+{
+"id": "4",
+"type": "shirt",
+"category":"Kids",
+"brand": "levis",
+"img": "../assets/kids/shirt2.jpg",
+"Price": "200",
+"description": "NICE Shirt of LEVIS"
+},
+{
+"id": "5",
+"type": "pant",
+"category":"Kids",
+"brand": "levis",
+"img": "../assets/kids/pant2.jpg",
+"Price": "500",
+"description": "NICE pant of LEVIS"
+},{
+"id": "6",
+"type": "tshirt",
+"category":"Kids",
+"brand": "puma",
+"img": "../assets/kids/tshirt3.jpg",
+"Price": "100",
+"description": "NICE T-Shirt of PUMA"
+},
+{
+"id": "7",
+"type": "shirt",
+"category":"Kids",
+"brand": "puma",
+"img": "../assets/kids/shirt3.jpg",
+"Price": "200",
+"description": "NICE Shirt of PUMA"
+},
+{
+"id": "8",
+"type": "pant",
+"category":"Kids",
+"brand": "puma",
+"img": "../assets/kids/pant3.jpg",
+"Price": "500",
+"description": "NICE pant of PUMA"
+}
+]
+}

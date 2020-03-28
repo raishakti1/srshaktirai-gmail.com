@@ -1,0 +1,21 @@
+ li a{
+    list-style: none;
+    display: block;
+    margin: 12px
+    
+  }
+  li {
+    float: left;
+  }
+
+  .page
+{
+  margin-left:10px;
+}
+
+.sidenav {
+  float: left;
+  width: 10%;
+  height: 400px;
+ 
+}

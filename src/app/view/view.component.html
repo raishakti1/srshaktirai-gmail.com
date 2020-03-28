@@ -1,0 +1,18 @@
+<div class="sidenav" >
+        <span>Brand</span>
+        <div class="Brand">
+          
+         
+         <tr><input  type="checkbox" [(ngModel)]="obj.reebok" (ngModelChange)="filter()">REEBOK</tr>
+         <tr><input  type="checkbox" [(ngModel)]="obj.levis" (ngModelChange)="filter()">LEVIS</tr>
+         <tr><input  type="checkbox" [(ngModel)]="obj.puma" (ngModelChange)="filter()">PUMA</tr>
+          
+        </div>
+         </div>
+   <div class ="page"> 
+<div *ngFor='let x of product'>
+<li><a [routerLink]="['/product']" [queryParams]="{ order:x.category,id:x.id}"><img [src]='x.img' width="180" height="220"><div>{{x.description}}</div><div>{{x.Price}}Rs</div></a></li>
+
+</div>
+   </div>
+    

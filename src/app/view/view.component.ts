@@ -22,9 +22,16 @@ export class ViewComponent implements OnInit {
   constructor(private route: ActivatedRoute) { }
 
   ngOnInit() {
+   
 
     this.route.queryParams.subscribe(params => {
 this.order=   data[params.order].filter((x)=>x.type==params.type)
+this.obj={
+   
+  puma:false,
+  reebok:false,
+  levis:false
+}
 this.product=[...this.order];
   console.log("hello",this.order) 
 })
